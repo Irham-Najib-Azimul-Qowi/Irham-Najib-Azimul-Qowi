@@ -47,8 +47,8 @@ Saya adalah seorang **Data Science Enthusiast** yang berdedikasi untuk mentransf
 ### 📈 Data Analytics (Insights)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irham-Najib-Azimul-Qowi&show_icons=true&theme=high_contrast&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irham-Najib-Azimul-Qowi&layout=compact&theme=high_contrast&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=ffffff" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Irham-Najib-Azimul-Qowi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irham-Najib-Azimul-Qowi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
@@ -75,5 +75,5 @@ Saya adalah seorang **Data Science Enthusiast** yang berdedikasi untuk mentransf
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=high_contrast" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>

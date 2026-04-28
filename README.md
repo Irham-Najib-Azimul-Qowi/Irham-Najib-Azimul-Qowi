@@ -1,7 +1,7 @@
 # <p align="center">✨ Irham Najib Azimul Qowi ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:090909,50:1a1a2e,100:16213e&height=250&section=header&text=Data%20Science%20%7C%20Web%20%7C%20Mobile&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Full-stack+Web+Developer;ML+%26+RAG+Specialist;Mobile+App+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -82,8 +82,4 @@ Saya adalah seorang **Data Science Enthusiast** dengan spesialisasi dalam memban
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Irham-Najib-Azimul-Qowi/Irham-Najib-Azimul-Qowi/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>

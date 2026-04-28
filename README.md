@@ -1,85 +1,79 @@
-# <p align="center">✨ Irham Najib Azimul Qowi ✨</p>
+# <p align="center">📊 Irham Najib Azimul Qowi 📊</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Full-stack+Web+Developer;ML+%26+RAG+Specialist;Mobile+App+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Full-stack+Web+Developer;ML+%26+RAG+Specialist;Mobile+App+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Irham-Najib-Azimul-Qowi&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Irham-Najib-Azimul-Qowi&label=Profile%20Views&color=00D1FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 Tentang Saya
-Saya adalah seorang **Data Science Enthusiast** dengan spesialisasi dalam membangun solusi berbasis data dan pengembangan aplikasi modern. Saya memadukan kekuatan **Machine Learning** (termasuk **RAG**) dengan arsitektur backend yang kokoh (**Go/Gin**, **Laravel**) serta frontend yang dinamis (**React**, **Next.js**).
+### 🧬 Professional Profile
+Saya adalah seorang **Data Science Enthusiast** yang berdedikasi untuk mentransformasi data menjadi insight yang dapat ditindaklanjuti. Dengan latar belakang pengembangan **Web (Go/Laravel)** dan **Mobile (Flutter)**, saya membangun ekosistem data yang komprehensif dari hulu ke hilir.
 
-*   🔭 **Sedang Fokus**: Mengembangkan sistem AI terintegrasi dan aplikasi mobile berbasis data.
-*   🧠 **Keahlian Utama**: Analisis Data, Pengembangan RAG, Backend Engineering.
-*   📫 **Hubungi Saya**: Mari berkolaborasi dalam proyek inovatif!
+*   🔭 **Current Project**: Integrasi Large Language Models (LLM) dengan **RAG** untuk solusi enterprise.
+*   📊 **Focus**: Statistical Analysis, Predictive Modeling, & Data Pipeline Automation.
+*   🚀 **Mission**: Memadukan kecerdasan buatan (AI) dengan aplikasi dunia nyata yang skalabel.
 
 ---
 
 ### 🛠️ Tech Stack & Expertise
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <strong>📊 Data Science & AI</strong><br/>
-      <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow,pytorch,anaconda" /><br/>
-      <i>ML, RAG, Data Analysis, Google Colab</i>
-    </td>
-    <td align="center" width="300">
-      <strong>🌐 Web Development</strong><br/>
-      <img src="https://skillicons.dev/icons?i=go,laravel,php,next,react,js,gin,tailwind" /><br/>
-      <i>Full-stack, REST API, Gin Gonic</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <strong>📱 Mobile & Cloud</strong><br/>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,gcp" /><br/>
-      <i>Android, Firebase Backend</i>
-    </td>
-    <td align="center" width="300">
-      <strong>🔧 Databases & Tools</strong><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,linux,postman" /><br/>
-      <i>RDBMS, Version Control, DevOps</i>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irham-Najib-Azimul-Qowi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irham-Najib-Azimul-Qowi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+  <strong>📊 Data Science & AI Engine</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow,pytorch,anaconda,mysql&perline=8" height="60" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irham-Najib-Azimul-Qowi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="94%" />
+  <strong>🌐 Web & Backend Systems</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,gin,laravel,php,next,react,js,tailwind&perline=8" height="60" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irham-Najib-Azimul-Qowi&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="94%" />
+  <strong>📱 Mobile & Cloud Infrastructure</strong><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,gcp,docker,linux,github&perline=8" height="60" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Hubungi Saya
+### 📈 Data Analytics (Insights)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Irham-Najib-Azimul-Qowi&show_icons=true&theme=high_contrast&hide_border=true&bg_color=0D1117&count_private=true&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irham-Najib-Azimul-Qowi&layout=compact&theme=high_contrast&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=ffffff" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irham-Najib-Azimul-Qowi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF" alt="Activity Graph" width="94%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Irham-Najib-Azimul-Qowi/Irham-Najib-Azimul-Qowi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="94%" />
+</p>
+
+---
+
+### 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/irham-najib-azimul-qowi" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:irhamnajib@example.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Irham-Najib-Azimul-Qowi" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=high_contrast" alt="Quote" />
 </p>
